@@ -6,4 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("ใส่จำนวนเต็ม: ))
+total= n % 2
+if total = 1
+print("even")
+else:
+print("odd")
